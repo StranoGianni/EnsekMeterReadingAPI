@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SXWhEJzeHDh4i73tML8QsnndNCXbP2Nw2HmEAqF06F+eQwsdaZ5kRk03Fm91AZYKqRVfI6dw+0737lxl09RzuA==",
+  "dgSpecHash": "ey4B/RPEnL1E9NPWqytUSr/p3FNBrYpDuXPpVu5h/vM6Ox5elba14+mw2m1XW+Jf0kDKhpTXsFc/RRbm+OEA2Q==",
   "success": true,
-  "projectFilePath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
+  "projectFilePath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
   "expectedPackageFiles": [
     "/Users/stranog/.nuget/packages/castle.core/4.4.1/castle.core.4.4.1.nupkg.sha512",
     "/Users/stranog/.nuget/packages/microsoft.codecoverage/16.5.0/microsoft.codecoverage.16.5.0.nupkg.sha512",

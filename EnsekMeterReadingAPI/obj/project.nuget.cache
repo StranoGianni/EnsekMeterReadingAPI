@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ia+xB/TMG6wtUXbFUV6VQrqTAY1C/qyodH8KkCuA4SA2SGsxM6U7HSs6ebsEcQmCZewwgZLaZA4p2Usr945Xmg==",
+  "dgSpecHash": "Lvfg++rZnUbb197aP7j2u1FGr3JGWv7tAVMYoWlVfUzeqhCZT7x8GlwDnc79RW8pnB+9AzKEcnlEeWpUwlMVbA==",
   "success": true,
-  "projectFilePath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
+  "projectFilePath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
   "expectedPackageFiles": [
     "/Users/stranog/.nuget/packages/microsoft.data.sqlite.core/5.0.2/microsoft.data.sqlite.core.5.0.2.nupkg.sha512",
     "/Users/stranog/.nuget/packages/microsoft.dotnet.platformabstractions/3.1.6/microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

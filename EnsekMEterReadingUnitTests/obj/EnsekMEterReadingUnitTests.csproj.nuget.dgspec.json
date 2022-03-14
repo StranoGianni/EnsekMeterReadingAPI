@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj": {}
+    "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj": {}
   },
   "projects": {
-    "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj": {
+    "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
+        "projectUniqueName": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
         "projectName": "EnsekMeterReadingAPI",
-        "projectPath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
+        "projectPath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj",
         "packagesPath": "/Users/stranog/.nuget/packages/",
-        "outputPath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/obj/",
+        "outputPath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stranog/.config/NuGet/NuGet.Config"
+          "/Users/stranog/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -69,21 +69,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj": {
+    "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
+        "projectUniqueName": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
         "projectName": "EnsekMEterReadingUnitTests",
-        "projectPath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
+        "projectPath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/EnsekMEterReadingUnitTests.csproj",
         "packagesPath": "/Users/stranog/.nuget/packages/",
-        "outputPath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/obj/",
+        "outputPath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMEterReadingUnitTests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/stranog/.config/NuGet/NuGet.Config"
+          "/Users/stranog/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -95,8 +95,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj": {
-                "projectPath": "/Users/stranog/Downloads/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj"
+              "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj": {
+                "projectPath": "/Users/stranog/Desktop/Gianni-Source-code/EnsekMeterReadingAPI/EnsekMeterReadingAPI/EnsekMeterReadingAPI.csproj"
               }
             }
           }
@@ -143,7 +143,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.405/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.406/RuntimeIdentifierGraph.json"
         }
       }
     }
